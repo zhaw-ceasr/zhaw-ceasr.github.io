@@ -69,4 +69,6 @@ and basic statistics as well as the ``utterances`` list itself:
 }
 ```
 
+For more information on the utterance structure go to [Utterance Structure](https://ceasr-corpus.github.io/utterance-structure/).
+
 

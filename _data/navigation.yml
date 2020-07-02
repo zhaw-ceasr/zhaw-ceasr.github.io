@@ -12,10 +12,11 @@ docs:
         url: /scope/
       - title: "Data Set Generation"
         url: /generation/
-      - title: "Related papers"
-        url: /papers/
       - title: "License"
         url: /license/
+      - title: "Related papers"
+        url: /papers/
+
   - title: CEASR Documentation
     children:
       - title: "Corpus Structure"

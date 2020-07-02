@@ -8,7 +8,7 @@ header:
 
 The CEASR data set provides transcripts of audio recordings but does not provide the recordings themselves.
 
-In order to get access to the audio files, the corresponsing speech corpora mentioned under [CEASR Scope]() needs to be downloaded or purchased separately.
+In order to get access to the audio files, the corresponsing speech corpora mentioned under [CEASR Scope](https://ceasr-corpus.github.io/scope/) needs to be downloaded or purchased separately.
 All English and three of the German corpora included in CEASR are available for download without any costs.
 The remaining three German corpora must be purchased.
 The information on the corpus availability as well as the download links

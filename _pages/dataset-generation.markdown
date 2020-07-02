@@ -35,6 +35,7 @@ for gender, all entries were normalised to ’male’ and ’female’.
 ### Uniform Utterance Data Structure Generation
 Finally, we transformed each corpus utterance into a uniform
 utterance data structure needed for further processing.
+See [Utterance Structure](https://ceasr-corpus.github.io/utterance-structure/) for details.
 
 ### Reference Segmentation
 If the references
