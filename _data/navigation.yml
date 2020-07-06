@@ -33,3 +33,8 @@ docs:
       - title: "Audio Recordings Download"
         url: /audio-download/
 
+  - title: Download
+    children:
+      - title: "Corpus Download"
+        url: /download/
+
