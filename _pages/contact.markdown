@@ -6,8 +6,8 @@ header:
   image: /assets/images/audio_wave_bw.jpg
 ---
 
-The CEASR corpus is owned by Zurich University of Applied Sciences. Feel free to contact us, if you have any questions or comments.
+The CEASR corpus was created by [Zurich University of Applied Sciences](https://www.zhaw.ch/de/hochschule/) and [SpinningBytes AG, Switzerland](https://www.spinningbytes.com).
 
-Our contact person:
+Feel free to contact us, if you have any questions or comments:
 <br>Malgorzata Anna Ulasik
 <br><ulas@zhaw.ch>

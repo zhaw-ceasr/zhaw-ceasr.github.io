@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Related papers"
+title: "Related Publications"
 permalink: /papers/
 header:
   image: /assets/images/audio_wave_bw.jpg

@@ -8,24 +8,28 @@ main:
 docs:
   - title: About CEASR
     children:
-      - title: "Scope"
+      - title: "What is CEASR"
         url: /scope/
-      - title: "Data Set Generation"
-        url: /generation/
+      - title: "Data"
+        url: /data/
       - title: "License"
         url: /license/
-      - title: "Related papers"
+      - title: "Related Publications"
         url: /papers/
 
   - title: CEASR Documentation
     children:
+      - title: "Data Set Generation"
+        url: /generation/
       - title: "Corpus Structure"
         url: /corpus-structure/
       - title: "JSON Data File Structure"
         url: /data-structure/
       - title: "Utterance Structure"
         url: /utterance-structure/
+
   - title: CEASR Extensions
     children:
       - title: "Audio Recordings Download"
         url: /audio-download/
+
